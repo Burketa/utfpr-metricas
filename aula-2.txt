@@ -1,0 +1,5 @@
+*Mostra de video com vários problemas entre gerente de projetos e a equipe de desenvolvimento
+
+Tanto a equipe quanto o gerente de projetos estimaram a duração do projeto baseado em chutes, não em dados
+
+Não foi levado em conta a relação de dependencia entre os colaboradores
