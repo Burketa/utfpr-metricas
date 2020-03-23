@@ -1,0 +1,5 @@
+Resposta: 28	->
+
+Apenas campos simples (1 TER) e TED menor que 50 (no caso, no maximo 15). 
+São 4 tabelas.
+4 * Peso da complexidade baixa (7) = 28
