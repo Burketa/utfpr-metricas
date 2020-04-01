@@ -1,0 +1,5 @@
+Resposta: 42	->
+
+Apenas campos simples (1 TER) e TED menor que 50. 
+São 6 tabelas.
+6 * Peso da complexidade baixa (7) = 42
